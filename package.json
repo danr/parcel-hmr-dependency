@@ -1,0 +1,12 @@
+{
+  "name": "parcel-hmr-dependency",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.7.1"
+  },
+  "scripts": {
+    "serve": "parcel src/index.html"
+  }
+}
