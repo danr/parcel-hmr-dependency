@@ -1,5 +1,7 @@
 # parcel hmr dependency bug
 
+https://github.com/parcel-bundler/parcel/issues/1232
+
 ```
 yarn
 yarn run serve
